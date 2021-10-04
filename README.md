@@ -1,12 +1,6 @@
-# [![Nodulus Logo](docs/Logo/nodulus-logo-28.png)](https://github.com/Hyperparticle/nodulus "Nodulus") Nodulus
+# PuzzleX 
 
-[<img alt='Nodulus Preview' src='docs/gif/nodulus-gameplay-1.gif' style="border-radius: 10px;"/>](https://youtu.be/79beEikWn0o "Nodulus Preview")
-
-[<img alt='Get it on Google Play' src='docs/badges/google-play-badge.png' width="200px"  style="padding:15px"/>](https://play.google.com/store/apps/details?id=com.hyperparticle.nodulus&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1 "Get it on Google Play")
-[<img alt='Download on the App Store' src='docs/badges/Download_on_the_App_Store_Badge_US-UK_135x40.svg' width="200px" style="padding:15px"/>](https://itunes.apple.com/us/app/nodulus/id1294238868?ls=1&mt=8 "Download on the App Store")
-[<img alt='Play it online' src='docs/badges/play-online-badge.png' width="200px" style="padding:15px"/>](https://hyperparticle.com/nodulus "Play it online")
-
-<b>Nodulus</b> is a puzzle game with a clever twist. Based on the mathematical theory behind plank puzzles, consists of a grid of cubes and rods which can be rotated with a swipe. Turn the activated cubes to reach the end cube and win the level.
+<b>PuzzleX</b> is a puzzle game with a clever twist. Based on Nodulus, consists of a grid of cubes and rods which can be rotated with a swipe. Turn the activated cubes to reach the end cube and win the level.
 
 ◉ Original concept - designed and developed by a math lover
 <br>
@@ -44,4 +38,4 @@ Have a cool idea for Nodulus and want to build it into the game? Found a bug or 
 
 ## Credits :clipboard:
 
-Created, designed, and developed by [Dan Kondratyuk](https://hyperparticle.com/about/). Music and sound design provided by [Travis W. Hendrix](http://traviswhendrix.com/) and [Stuart Myers](https://stuartmyers.com/). Please give credit to this project if you use it elsewhere. Open sourced under the [MIT license](LICENSE.md). :heart:
+Created, designed, and developed by Hadi J. Please give credit to this project if you use it elsewhere. Open sourced under the [MIT license](LICENSE.md). :heart:
